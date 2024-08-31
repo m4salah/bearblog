@@ -1,6 +1,7 @@
 +++
 title = "Distributed Systems Resources"
 description = "This some of the resources I used for distributed systems."
+date = "2023-01-03"
 tags = [
     "distributed",
     "resources"
