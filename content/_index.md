@@ -2,7 +2,7 @@
 # This title is used as the og:title on Hugo's internal
 # opengraph structured data template on the home page.
 # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-title = "Mohamed A. Salah"
+title = "Home"
 +++
 
 [![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
@@ -24,5 +24,6 @@ I'm a **Software Engineer**. Adoptable with any technology for now I'm using [No
 ## Distributed Systems Series by Ahmed Soliman
 
 [The Playlist](https://www.youtube.com/playlist?list=PLald6EODoOJW3alE1oPAkGF0bHZkPIeTK)
+
 * [[Episode 1 Why distributed system]]
 * [[Episode 2 State Machine Replication (SMR)]]
