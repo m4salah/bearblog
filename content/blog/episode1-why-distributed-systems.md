@@ -3,8 +3,7 @@ title = "Episode 1 Why Distributed Systems?"
 description = "Episode 1 of distributed systems series by Ahmed Soliman"
 date = "2024-01-03"
 tags = [
-    "distributed",
-    "resources"
+    "distributed"
 ]
 +++
 
