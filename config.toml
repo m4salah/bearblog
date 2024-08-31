@@ -6,7 +6,7 @@ baseURL = "https://msalah.net/bearblog"
 theme = 'hugo-bearblog'
 
 # Basic metadata configuration for your blog.
-title = "Mohamed A. Salah Blog"
+title = "Mohamed A. Salah"
 author = "Mohamed A. Salah"
 copyright = "Copyright © 2024, Mohamed A. Salah."
 languageCode = "en-US"
@@ -23,7 +23,7 @@ tags = "/blog/:slug"
 
 [params]
 # The "description" of your website. This is used in the meta data of your generated html.
-description = "Hugo + Bear = :heart:"
+description = "Mohamed A. Salah Blog"
 
 # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
 # Hint: It's good practise to also put a "favicon.ico"-file into your "static"-folder.
