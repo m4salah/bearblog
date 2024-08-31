@@ -2,27 +2,27 @@
 # This title is used as the og:title on Hugo's internal
 # opengraph structured data template on the home page.
 # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-title = "Hugo ʕ•ᴥ•ʔ Bear"
+title = "Mohamed A. Salah"
 +++
 
-# A match made in heaven
+[![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
 
-There is a website obesity crisis. Bloated websites full of scripts, ads, and trackers are slowing your readers down every time they try to read your well-crafted content.
+Hello internet, I'm **Mohamed Abdelkhalek Salah** (Arabic: **محمد عبدالخالق صلاح**). This is my  [digital garden](https://github.com/MaggieAppleton/digital-gardeners). It’s a public space.
 
-Hugo Bear Blog is all you need to build a fantastic and optimized site or blog. It works perfectly on **any** viewing device. All you need to focus on is writing good content.
+I'm a **Software Engineer**. Adoptable with any technology for now I'm using [NodeJS](https://nodejs.org/), [Typescript](https://www.typescriptlang.org/), [NestJS](https://nestjs.com/), [PostgreSQL](https://www.postgresql.org/), and [NextJS](https://nextjs.org/) In my work, using [Golang](https://go.dev/) for my side project.
 
-[Go to the original bear blog](https://bearblog.dev/).
+## Contacts and Social profiles
 
----
+* Email [me@msalah.net](mailto:me@msalah.net)
+* [GitHub](https://www.github.com/m4salah)
+* [LinkedIn](https://www.linkedin.com/in/mohamed-a-salah)
 
-What happens when you combine the worlds' fastest, most lightweight static site generator with a design theme built to provide you with free, no-nonsense, super-fast blogging capabilities?
+## Projects
 
-**Use this theme, and find out!**
+* [Redroc](https://github.com/m4salah/redroc): image sharing website, using #go and #gRPC for the backend, #nextjs for the frontend.
 
-Made with 💟 by [Jan Raasch](https://www.janraasch.com).
+## Distributed Systems Series by Ahmed Soliman
 
----
-
-Simply publish content online, grow an audience, and keep your pages tiny, fast, and **optimized for search engines**.
-
-Each page is ~5kb, and you can **host your blog yourself**.
+[The Playlist](https://www.youtube.com/playlist?list=PLald6EODoOJW3alE1oPAkGF0bHZkPIeTK)
+* [[Episode 1 Why distributed system]]
+* [[Episode 2 State Machine Replication (SMR)]]
