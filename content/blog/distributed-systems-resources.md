@@ -20,4 +20,4 @@ tags = [
 
 6. [Distributed Systems Reading List](https://dancres.github.io/Pages/)
 
-7. [Concurrent and Distributed Systems](https://www.cl.cam.ac.uk/teaching/2122/ConcDisSys/)]
+7. [Concurrent and Distributed Systems](https://www.cl.cam.ac.uk/teaching/2122/ConcDisSys/)
